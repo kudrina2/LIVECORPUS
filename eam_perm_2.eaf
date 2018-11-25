@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-26T03:29:50+06:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/mariy/OneDrive/Рабочий стол/Perm_EAM2000_2.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Perm_EAM2000_2.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4fe76a10-53cb-461a-a01f-1e23f4afb1b8</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">15</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2545"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="11738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="12785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="12785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="19623"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="19623"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="23361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="23361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="25523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="25523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="26527"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="26527"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="29226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="29238"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="102502"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="105016"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="aak@" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="eam@" TIER_ID="eam speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>Тут Лавр Федотович вдруг поднялся.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Простым глазом было видно, что  он
+здорово  сдал  после  вчерашнего.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Обыкновенная   человеческая   слабость
+светилась сквозь обычно  каменные  черты  его.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Да,  гранит  дал  трещину,
+бастион несколько покосился, но все-таки, несмотря ни на  что, стоял
+могучий и непреклонный.
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Народ... - произнес бастион, болезненно заводя глаза.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>Народ  не
+любит замыкаться в четырех сте'нах.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>стена'х</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>Народу нужен простор.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Я  под  шумок  схватил  Говоруна  за шиворот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="aak@" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="eam@" TIER_ID="eam gestures">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Держит в правой руке телефон, пальцами левой теребит правую руку и чехол мобильного</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Поднимает левую руку к шее, опускает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Держит в правой руке телефон, пальцами левой теребит правую руку и чехол мобильного</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="aak@" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="eam gestures" PARTICIPANT="eam@" TIER_ID="eam gestures meaning">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Сосредоточена, читает</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>непроизвольно акцентирует внимание на факте своего монолога</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Сосредоточена, читает, сбивается</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_d196f096-4742-481b-862c-de7efc8ec19a">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c901fbf2-eadc-4f6f-bf0b-a4b0367e5f26">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_29bdd175-298f-4754-b1e8-c27daf706867">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_151bdaca-8944-416c-bdc8-ae9ac66168da">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_796b78cf-7e69-4664-b16a-41bb08b4af04">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_44a1e907-0e67-48dc-9f45-3dd70445c43c">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_791cc4dd-1b6d-479e-9355-9c98bc63345d">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_36db94b3-40f7-49c4-b153-c95170ae73a9">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f7af8e7a-8832-4b35-8e66-1c88cbc822d9">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_93423993-32ae-4aec-9026-b0561e3e14f8">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_baa4e40c-8890-4fc4-a899-8885199798d5">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7d0486b2-045f-491e-86bb-d84b5ab8a3d0">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_60d26516-fbc3-4cfc-953e-8d538ccb3192">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_800c68be-0643-40ce-81ce-5de5b936d6be">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_500f1a96-50d0-47f7-b4df-0b7fb9183f27">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dae9b875-f693-4953-ad55-1cc019c1aa1f">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9bdcd6cb-8e82-40ce-abf1-67f59428d8e1">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
